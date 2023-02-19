@@ -20,4 +20,6 @@ I created my own Budget of 9 usd
 
 ![Cruddur Logical Design](assets/lucid.png)
 
+# Thanks 
+
 
